@@ -2,5 +2,5 @@ branchLabels:
   release: ['release-.*']
 
 pathLabels:
-  docs: ['*.md']
+  docs: ['*.md', 'docs/*']
   config: ['*.yml']
