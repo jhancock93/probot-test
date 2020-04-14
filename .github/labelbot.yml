@@ -1,5 +1,5 @@
 branchLabels:
-  release: ['release-*']
+  release: ['release-.*']
 
 pathLabels:
   docs: ['*.md']
