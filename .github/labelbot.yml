@@ -1,3 +1,13 @@
+labelDefinitions:
+  - name: bug
+    color: 00DD00
+    description: 'A bug'
+  - name: release
+    color: 1111DD
+    description: 'Targets release branch'
+  - name: foobar
+    color: 000077
+
 targetBranchLabels:
   release: 'release-.*'
 
