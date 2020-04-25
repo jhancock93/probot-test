@@ -8,7 +8,7 @@ labelDefinitions:
   - name: foobar
     color: 000077
   - name: silly
-    color: FF9999
+    color: FFAAAA
 
 targetBranchLabels:
   release: 'release-.*'
