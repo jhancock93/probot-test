@@ -1,14 +1,15 @@
 labelDefinitions:
   - name: bug
-    color: 00DD00
+    color: '00DD00'
     description: 'A bug'
   - name: release
-    color: 1111DD
+    color: '1111DD'
     description: 'Targets release branch'
   - name: foobar
-    color: 000077
+    color: '000077'
   - name: hotfix
-    color: DD1100
+    color: 'DD1100'
+    description: 'A fix for an issue in production. Needs attention.' 
 
 
 targetBranchLabels:
