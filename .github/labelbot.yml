@@ -2,11 +2,14 @@ labelDefinitions:
   - name: bug
     color: '00DD00'
     description: 'A bug'
+  - name: docs
+    color: '4444FF'
+    description: 'Documentation update'
   - name: release
-    color: '1111DD'
+    color: 'FF6600123'
     description: 'Targets release branch'
-  - name: foobar
-    color: '000077'
+  - name: config
+    color: '777700'
   - name: hotfix
     color: 'DD1100'
     description: 'A fix for an issue in production. Needs attention.' 
