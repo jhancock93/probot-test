@@ -7,6 +7,9 @@ labelDefinitions:
     description: 'Targets release branch'
   - name: foobar
     color: 000077
+  - name: hotfix
+    color: DD1100
+
 
 targetBranchLabels:
   release: 'release-.*'
