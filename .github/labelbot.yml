@@ -6,7 +6,7 @@ labelDefinitions:
     color: '4444FF'
     description: 'Documentation update'
   - name: release
-    color: 'FF6600123'
+    color: 'FF6600'
     description: 'Targets release branch'
   - name: config
     color: '777700'
